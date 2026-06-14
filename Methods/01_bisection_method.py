@@ -1,4 +1,17 @@
 def bisection(f, a, b, tol):
+    """
+    Finds the root of a nonlinear equation using the Bisection Method.
+
+    Parameters:
+    f   : function (the equation f(x))
+    a   : left boundary of interval
+    b   : right boundary of interval
+    tol : tolerance (acceptable error)
+
+    Returns:
+    Approximate root of the equation
+    """
+
     if f(a) * f(b) >= 0:
         print("Invalid interval")
         return None
