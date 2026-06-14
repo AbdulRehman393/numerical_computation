@@ -133,17 +133,9 @@ numerical_computation/
 
 ---
 
-## 🗓️ Future Methods (Coming Soon)
+## 🗓️ Future Additions
 
-- ☐ Secant Method
-- ☐ False Position Method
-- ☐ SOR Method
-- ☐ LU Decomposition
-- ☐ Gaussian Elimination
-- ☐ Interpolation Methods
-- ☐ Numerical Integration
-- ☐ ODE Solvers
-- ☐ Optimization Methods
+More methods coming soon! 🚀
 
 ---
 
